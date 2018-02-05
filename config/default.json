@@ -1,0 +1,7 @@
+{
+  "logPath": {
+    "error": "logs/error.log",
+    "access": "logs/access.log",
+    "system": "logs/system.log"
+  }
+}
