@@ -3,7 +3,7 @@ const http = require('http')
 const express = require('express')
 const path = require('path')
 const bodyParser = require('body-parser')
-const logger = require('./lib/loger')
+const {logger} = require('./lib')
 const cookieParser = require('cookie-parser')
 
 const app = express()
